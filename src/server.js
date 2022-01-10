@@ -5,9 +5,9 @@ const morgan = require("morgan");
 
 const app = express();
 
-app.use(json());
 app.use(morgan("dev"));
 app.use(helmet());
+app.use(json());
 
 app.get("/", (req, res) => {
   res.status(200).send({
