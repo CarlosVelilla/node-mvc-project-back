@@ -1,7 +1,11 @@
 const app = require("./server");
+const config = require("./config/config");
+const connect = require("./db/connect");
 
-const PORT = process.env.PORT;
+connect().then(async function onServerInit() {
+  config.logger.info(`DB connected`);
 
-app.listen(PORT, () => {
-  console.log(`Server listening on http:localhost:${PORT}`);
+  app.listen(config.app.PORT, () => {
+    config.logger.info(`Server running at http://localhost:${config.app.PORT}`);
+  });
 });
