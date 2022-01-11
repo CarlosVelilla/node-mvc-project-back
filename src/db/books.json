@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "61ddb87fa754c9dae386c827"
+  },
+  "title": "Oliver Twist",
+  "description": "Oliver Twist unromantically portrays the sordid lives of criminals, and exposes the cruel treatment of the many orphans in London in the mid-19th century.The novel may have been inspired by the story of Robert Blincoe, an orphan whose account of working as a child labourer in a cotton mill was widely read in the 1830s. It is likely that Dickens's own experiences as a youth contributed as well.",
+  "price": 28,
+  "in_stock": 25,
+  "imageUrl": "https://images.pexels.com/photos/904616/pexels-photo-904616.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+  "createdAt": {
+    "$date": "2022-01-11T17:03:59.891Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T17:03:59.891Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddb8c9a754c9dae386c829"
+  },
+  "title": "A Tale of Two Cities",
+  "description": "A Tale of Two Cities is an 1859 historical novel by Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Manette, his 18-year-long imprisonment in the Bastille in Paris and his release to live in London with his daughter Lucie, whom he had never met.",
+  "price": 30,
+  "in_stock": 30,
+  "imageUrl": "https://images.pexels.com/photos/1809340/pexels-photo-1809340.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+  "createdAt": {
+    "$date": "2022-01-11T17:05:13.488Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T17:05:13.488Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddb8e9a754c9dae386c82b"
+  },
+  "title": "Winnie-the-Pooh",
+  "description": "Winnie-the-Pooh is a children’s book by English author A. A. Milne and English illustrator E. H. Shepard. Published in 1926, it is a collection of short stories about an anthropomorphic teddy bear, Winnie-the-Pooh, and his friends Christopher Robin, Piglet, Eeyore, Owl, Rabbit, Kanga, and Roo.",
+  "price": 40,
+  "in_stock": 20,
+  "imageUrl": "https://images.pexels.com/photos/1906437/pexels-photo-1906437.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "createdAt": {
+    "$date": "2022-01-11T17:05:45.390Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T17:05:45.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddb905a754c9dae386c82d"
+  },
+  "title": "Twenty Thousand Leagues Under the Seas",
+  "description": "The book was widely acclaimed on its release and remains so; it is regarded as one of the premier adventure novels and one of Verne's greatest works, along with Around the World in Eighty Days and Journey to the Center of the Earth. Its depiction of Captain Nemo's underwater ship, the Nautilus, is regarded as ahead of its time, since it accurately describes many features of today's submarines, which in the 1860s were comparatively primitive vessels.",
+  "price": 40,
+  "in_stock": 18,
+  "imageUrl": "https://images.pexels.com/photos/309724/pexels-photo-309724.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "createdAt": {
+    "$date": "2022-01-11T17:06:13.832Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T17:06:13.832Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddb921a754c9dae386c82f"
+  },
+  "title": "Rainy Dawn and Other Stories",
+  "description": "No description",
+  "price": 28,
+  "in_stock": 40,
+  "imageUrl": "https://images.pexels.com/photos/207636/pexels-photo-207636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "createdAt": {
+    "$date": "2022-01-11T17:06:41.403Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T17:06:41.403Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddb93ba754c9dae386c831"
+  },
+  "title": "The Adventures of Tom Sawyer",
+  "description": "The Adventures of Tom Sawyer is an 1876 novel by Mark Twain about a boy growing up along the Mississippi River. It is set in the 1840s in the town of St. Petersburg, which is based on Hannibal, Missouri, where Twain lived as a boy.[2] In the novel, Tom Sawyer has several adventures, often with his friend Huckleberry Finn.",
+  "price": 40,
+  "in_stock": 32,
+  "imageUrl": "https://images.pexels.com/photos/2465877/pexels-photo-2465877.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "createdAt": {
+    "$date": "2022-01-11T17:07:07.187Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T17:07:07.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddb95aa754c9dae386c833"
+  },
+  "title": "War and Peace",
+  "description": "This book is a literary work mixed with chapters on history and philosophy by the Russian author Leo Tolstoy, first published serially, then published in its entirety in 1869. It is regarded as one of Tolstoy's finest literary achievements and remains an internationally praised classic of world literature.",
+  "price": 60,
+  "in_stock": 25,
+  "imageUrl": "https://images.pexels.com/photos/159499/books-read-bouquet-relax-159499.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "createdAt": {
+    "$date": "2022-01-11T17:07:38.031Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T17:07:38.031Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ddb974a754c9dae386c835"
+  },
+  "title": "The Last Leaf",
+  "description": "The Last Leaf is a short story by O. Henry published in his 1907 collection The Trimmed Lamp and Other Stories. The story is set in Greenwich Village during a pneumonia epidemic. It tells the story of an old artist who saves the life of a young neighbouring artist, dying of pneumonia, by giving her the will to live.",
+  "price": 36,
+  "in_stock": 40,
+  "imageUrl": "https://images.pexels.com/photos/1741231/pexels-photo-1741231.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "createdAt": {
+    "$date": "2022-01-11T17:08:04.889Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T17:08:04.889Z"
+  },
+  "__v": 0
+}]
