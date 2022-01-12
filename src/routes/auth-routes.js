@@ -10,6 +10,7 @@ const {
   updateUser,
 } = require("../controllers/authController");
 
+//@ API /api/auth/sign-up
 router.route("/sign-up").post(signUp);
 
 router.route("/sign-in").post(signIn);
