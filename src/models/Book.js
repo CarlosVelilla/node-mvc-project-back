@@ -2,6 +2,10 @@ const mongoose = require("mongoose");
 
 const BookSchema = new mongoose.Schema(
   {
+    // _id: {
+    //   type: mongoose.SchemaTypes.ObjectId,
+    //   required: true,
+    // },
     imageUrl: {
       type: String,
       required: true,
