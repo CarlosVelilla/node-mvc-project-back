@@ -26,6 +26,7 @@ app.get("/", (req, res) => {
 
 app.use("/api/auth", require("./routes/auth-routes"));
 app.use("/api/book", require("./routes/book-routes"));
+app.use("/api/order", require("./routes/order-routes"));
 app.use("/api/private", require("./routes/private"));
 
 // Error Handler should be last piece of middleware
